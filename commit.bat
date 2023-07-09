@@ -5,3 +5,7 @@ git add .
 
 echo commiting ...
 git commit -a
+
+git push
+
+pause
